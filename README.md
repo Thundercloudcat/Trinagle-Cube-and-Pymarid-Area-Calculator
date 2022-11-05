@@ -1,0 +1,1 @@
+# Trinagle-Cube-and-Pymarid-Area-Calculator can be contributed but please do not change the project a lot from its original complexity and, always make sure they are revelant. Once you have read this you are free to edit this open source program and change it and run it. Adding more shapes and formulas is a good thing to edit it with that are revelant to shapes.
